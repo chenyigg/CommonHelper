@@ -6,8 +6,12 @@
     <PackageId>Cy.CommonHelper</PackageId>
     <Authors>ChenYi</Authors>
     <Description>日常帮助类</Description>
-    <Version>1.0.2</Version>
+    <Version>1.0.4</Version>
     
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+  </ItemGroup>
 
 </Project>
