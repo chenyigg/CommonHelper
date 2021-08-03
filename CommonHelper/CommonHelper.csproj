@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <PackageId>Cy.CommonHelper</PackageId>
     <Authors>ChenYi</Authors>
-    <Description>日常帮助类</Description>
+    <Description>日常帮助类，源码地址:https://github.com/chenyigg/CommonHelper</Description>
     <Version>1.0.4</Version>
     
   </PropertyGroup>
