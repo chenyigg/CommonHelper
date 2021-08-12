@@ -5,12 +5,13 @@
     <Nullable>enable</Nullable>
     <PackageId>Cy.CommonHelper</PackageId>
     <Authors>ChenYi</Authors>
-    <Description>日常帮助类，源码地址:https://github.com/chenyigg/CommonHelper</Description>
-    <Version>1.0.4</Version>
+    <Description>日常帮助类，源码地址:https://github.com/chenyigg/CommonHelper </Description>
+    <Version>2.0</Version>
     
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
   </ItemGroup>
 
